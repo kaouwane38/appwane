@@ -1,0 +1,10 @@
+Flask-Compress==1.12
+grpcio==1.44.0
+gunicorn==20.1.0
+pycurl==7.44.1
+pyinstaller==5.2
+pyOpenSSL 
+pyspark==3.3.0
+pytest==6.2.4
+python-socketio==5.5.2
+
